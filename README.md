@@ -1,12 +1,14 @@
 📚 PokéLibrary – Repository Description (Updated with Fanta CSS)
 PokéLibrary is an interactive Pokémon reference app built with React and Vite, styled using a custom CSS file (fanta.css). It connects to the official PokéAPI REST service to fetch real‑time Pokémon data and presents it in a clean, responsive interface.
 You can explore the live project here: 👉 pokelibrary.webstudiobydee.com
+
 🔎 Features
 - Browse and search the first 151 Pokémon
 - View detailed Pokémon cards with stats, abilities, and type badges
 - Explore multiple sprite variations and official artwork
 - Click on moves to open a modal overlay with descriptions
 - LocalStorage caching to reduce API calls and improve performance
+  
 🛠️ Tech Stack (PokéLibrary)
 - Frontend Framework: React + Vite
 - Styling: Custom CSS (fanta.css)
@@ -17,6 +19,7 @@ You can explore the live project here: 👉 pokelibrary.webstudiobydee.com
 - Reduces repeated API calls
 - Improves performance and user experience by loading cached data instantly
 - Deployment: Hosted on pokelibrary.webstudiobydee.com via Hostinger
+  
 🔎 Why LocalStorage matters
 Adding LocalStorage to your tech stack shows:
 - You understand client‑side persistence (keeping data across sessions).
