@@ -1,17 +1,17 @@
-PokéLibrary is an interactive Pokémon reference app built with React and Vite, styled with Tailwind CSS, and powered by the PokéAPI REST service.
-Users can browse and search the first 151 Pokémon, view detailed cards with stats, abilities, types, and sprites, and explore move descriptions through a modal overlay.
-Data is cached locally with LocalStorage to reduce API calls and improve performance.
-The project is live at 👉 pokelibrary.webstudiobydee.com.
-
+📚 PokéLibrary – Repository Description (Updated with Fanta CSS)
+PokéLibrary is an interactive Pokémon reference app built with React and Vite, styled using a custom CSS file (fanta.css). It connects to the official PokéAPI REST service to fetch real‑time Pokémon data and presents it in a clean, responsive interface.
+You can explore the live project here: 👉 pokelibrary.webstudiobydee.com
 🔎 Features
-- Responsive UI with SideNav for quick Pokémon selection
-- Pokémon cards showing stats, abilities, and multiple sprite variations
-- Move descriptions displayed in a modal overlay
-- LocalStorage caching for faster repeat loads
-- Clean component architecture (PokeCard, TypeCard, Modal, SideNav)
+- Browse and search the first 151 Pokémon
+- View detailed Pokémon cards with stats, abilities, and type badges
+- Explore multiple sprite variations and official artwork
+- Click on moves to open a modal overlay with descriptions
+- LocalStorage caching to reduce API calls and improve performance
 🛠️ Tech Stack
 - Frontend: React + Vite
-- Styling: Tailwind CSS + custom CSS
-- Data Source: PokéAPI (REST)
+- Styling: Custom CSS (fanta.css)
+- Data Source: PokéAPI (REST API)
 - State Management: React hooks (useState, useEffect)
 - Deployment: Hosted on webstudiobydee.com via Hostinger
+🎯 Purpose
+This project demonstrates practical frontend skills: API integration, state management, caching, and modular component architecture. It’s both a learning exercise and a showcase of building fun, interactive apps with modern tooling — while highlighting custom CSS design instead of relying on frameworks.
