@@ -1,6 +1,7 @@
 📚 PokéLibrary – Repository Description (Updated with Fanta CSS)
 PokéLibrary is an interactive Pokémon reference app built with React and Vite, styled using a custom CSS file (fanta.css). It connects to the official PokéAPI REST service to fetch real‑time Pokémon data and presents it in a clean, responsive interface.
-🔗 You can explore the live project here: [www.pokelibrary.webstudiobydee.com]([https://www.webstudiobydee.com](https://pokelibrary.webstudiobydee.com/))
+🔗 You can explore the live project here:  
+[PokéLibrary Live Demo](https://pokelibrary.webstudiobydee.com/)
 
 🔎 Features
 - Browse and search the first 151 Pokémon
